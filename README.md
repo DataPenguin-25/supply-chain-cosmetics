@@ -22,10 +22,6 @@ This project analyzes supply chain data for a fictional company using Excel (Pow
 ## 🧾 Files Included
 
 - `supply_chain_data.xlsx` – Cleaned, enriched dataset
-- `dashboard_1.png`, `dashboard_2.png` – Dashboard screenshots
-- `power_query_code.txt` (optional) – M code from Power Query
-- Final dashboard published to Tableau Public
+- `Dashboard_1.png' – Dashboard screenshots
+- 'supply_chain_data.csv' - Source data file
 
-## 🔗 Live Dashboard
-
-[View on Tableau Public](https://public.tableau.com/views/your-dashboard-link)
